@@ -1,0 +1,44 @@
+body {
+    background-image: url("leaves.png")
+}
+
+hr {
+    margin: 0em 1em;
+    padding: 1em;
+}
+
+.navbar-brand:after {
+    clear: both;
+  }
+
+.navbar-nav {
+    position: absolute;
+    float: right;
+}
+
+.navbar-footer {
+    position: absolute;
+    float: left;
+}
+
+.img-thumbnail {
+    position: relative;
+    left: 2em;
+}
+
+.post-content {
+    bottom: 2em;
+    position: relative;
+    left: 1.7em;
+}
+
+a:link,
+a:visited,
+a:hover {
+    text-decoration: none;
+    color: #dddddd;
+  }
+
+.foot-link {
+    align-content: left;
+}
