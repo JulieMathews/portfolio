@@ -29,7 +29,6 @@ hr {
 .post-content {
     bottom: 2em;
     position: relative;
-    left: 1.7em;
 }
 
 a:link,
@@ -41,4 +40,11 @@ a:hover {
 
 .foot-link {
     align-content: left;
+}
+
+.caption {
+    text-align: center; 
+    font-size: 1.5vw; 
+    width: 100%;
+    left: 2em;
 }
